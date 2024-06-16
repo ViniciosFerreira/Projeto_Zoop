@@ -33,7 +33,7 @@ o	Configure seu SGBD e importe o arquivo de dados (Projeto_Zoop/banco_de_dados_v
 o	Navegue até o diretório [Queries/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Queries) e execute as consultas SQL conforme necessário para realizar as análises.
 o	Utilize um cliente SQLite Onlie para executar as queries.
 3.	Documentação:
-o	Consulte a documentação em Docs/ para obter detalhes sobre cada query e como interpretá-las.
+o	Consulte a documentação em [Docs/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Docs) para obter detalhes sobre cada query e como interpretá-las.
 ## Licença
 Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
 ________________________________________
