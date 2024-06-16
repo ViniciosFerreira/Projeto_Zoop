@@ -34,8 +34,6 @@ o	Navegue até o diretório [Queries/](https://github.com/ViniciosFerreira/Proje
 o	Utilize um cliente SQLite Onlie para executar as queries.
 3.	Documentação:
 o	Consulte a documentação em [Docs/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Docs) para obter detalhes sobre cada query e como interpretá-las.
-## Licença
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
 ________________________________________
 Este projeto foi desenvolvido como um estudo de caso para demonstrar habilidades em análise de dados utilizando SQL. Ele serve como um exemplo prático de como realizar análises detalhadas de vendas e pode ser adaptado para diferentes contextos empresariais.
 Se você tiver alguma dúvida ou precisar de mais informações, sinta-se à vontade para entrar em contato.
