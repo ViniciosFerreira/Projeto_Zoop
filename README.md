@@ -8,24 +8,24 @@ O objetivo deste projeto é analisar os dados de vendas da Zoop MegaStore para i
 ## Estrutura do Projeto
 ### 1. Análise das Vendas das Últimas Black Fridays
 Esta seção concentra-se em examinar as vendas durante os períodos de Black Friday dos últimos anos. As principais análises incluem:
-•	Tendências de vendas: Identificação de padrões de vendas durante os períodos de Black Friday.
-•	Desempenho de marcas: Análise das marcas de produtos que tiveram melhor desempenho.
-•	Desempenho por categorias: Análise das categorias de produtos que tiveram melhor desempenho.
+- Tendências de vendas: Identificação de padrões de vendas durante os períodos de Black Friday.
+-	Desempenho de marcas: Análise das marcas de produtos que tiveram melhor desempenho.
+-	Desempenho por categorias: Análise das categorias de produtos que tiveram melhor desempenho.
 ### 2. Análise das Vendas Gerais da Empresa
 Além da Black Friday, a análise das vendas gerais da empresa abrange:
-•	Análise temporal: Avaliação das vendas mensais para identificar tendências sazonais.
-•	Desempenho de produtos: Análise detalhada das vendas de diferentes categorias de produtos ao longo do ano.
+-	Análise temporal: Avaliação das vendas mensais para identificar tendências sazonais.
+-	Desempenho de produtos: Análise detalhada das vendas de diferentes categorias de produtos ao longo do ano.
 ### 3. Ferramentas para Consultas e Relatórios
 Para facilitar o acesso e a atualização das informações, este projeto inclui:
-•	Consultas SQL: Um conjunto de queries SQL prontas para uso que permitem a extração de insights específicos.
-•	Documentação: Instruções detalhadas para executar e modificar as queries, promovendo autonomia na análise dos dados.
+-	Consultas SQL: Um conjunto de queries SQL prontas para uso que permitem a extração de insights específicos.
+-	Documentação: Instruções detalhadas para executar e modificar as queries, promovendo autonomia na análise dos dados.
 ## Tecnologias Utilizadas
-•	SQL: A principal ferramenta utilizada para consultas e manipulação dos dados.
-•	SGBD (Sistema de Gerenciamento de Banco de Dados): SQLite Online
+-	SQL: A principal ferramenta utilizada para consultas e manipulação dos dados.
+-	SGBD (Sistema de Gerenciamento de Banco de Dados): SQLite Online
 ## Como Utilizar Este Repositório
 ### Pré-requisitos
-•	Acesso ao [SQLite Online]( https://sqliteonline.com/)
-•	Acesso ao banco de dados da Zoop MegaStore (Projeto_Zoop/banco_de_dados_vendas.db)
+-	Acesso ao [SQLite Online]( https://sqliteonline.com/)
+-	Acesso ao banco de dados da Zoop MegaStore (Projeto_Zoop/banco_de_dados_vendas.db)
 ### Instruções
 1.	Configuração do Banco de Dados:
 o	Configure seu SGBD e importe o arquivo de dados (Projeto_Zoop/banco_de_dados_vendas.db) para seu banco de dados.
