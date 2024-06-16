@@ -28,12 +28,12 @@ Para facilitar o acesso e a atualização das informações, este projeto inclui
 -	Download do banco de dados da Zoop MegaStore [(banco_de_dados_vendas.db)](https://github.com/ViniciosFerreira/Projeto_Zoop/blob/main/banco_de_dados_vendas.db)
 ### Instruções
 1.	Configuração do Banco de Dados:
-o	Configure seu SGBD e importe o arquivo de dados [(banco_de_dados_vendas.db)](https://github.com/ViniciosFerreira/Projeto_Zoop/blob/main/banco_de_dados_vendas.db) para seu banco de dados.
+- Configure seu SGBD e importe o arquivo de dados [(banco_de_dados_vendas.db)](https://github.com/ViniciosFerreira/Projeto_Zoop/blob/main/banco_de_dados_vendas.db) para seu banco de dados.
 2.	Execução das Consultas SQL:
-o	Navegue até o diretório [Queries/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Queries) e execute as consultas SQL conforme necessário para realizar as análises.
-o	Utilize um cliente SQLite Onlie para executar as queries.
+- Navegue até o diretório [Queries/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Queries) e execute as consultas SQL conforme necessário para realizar as análises.
+- Utilize um cliente SQLite Onlie para executar as queries.
 3.	Documentação:
-o	Consulte a documentação em [Docs/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Docs) para obter detalhes sobre cada query e como interpretá-las.
+-	Consulte a documentação em [Docs/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Docs) para obter detalhes sobre cada query e como interpretá-las.
 ________________________________________
 Este projeto foi desenvolvido como um estudo de caso para demonstrar habilidades em análise de dados utilizando SQL. Ele serve como um exemplo prático de como realizar análises detalhadas de vendas e pode ser adaptado para diferentes contextos empresariais.
 Se você tiver alguma dúvida ou precisar de mais informações, sinta-se à vontade para entrar em contato.
