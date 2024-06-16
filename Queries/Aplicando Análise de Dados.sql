@@ -26,6 +26,7 @@ FROM itens_venda iv
 JOIN vendas v ON v.id_venda = iv.venda_id
 JOIN produtos p ON p.id_produto = iv.produto_id
 JOIN fornecedores f ON f.id_fornecedor = p.fornecedor_id
+ --DEFINE SOMENTE O FORNECEDOR QUE TEVE MAIOR NUMERO DE VENDAS, COMO VIMOS NA QUERY "Papel dos fornecedores na Black Friday"
 WHERE f.nome = 'NebulaNetworks'
 GROUP BY f.nome, "Ano/Mes"
 ORDER BY "Ano/Mes", Qtd_Vendas;
@@ -42,6 +43,7 @@ ORDER BY "Ano/Mes", Qtd_Vendas;
 
 -- Vendas mensais agregadas por fornecedor
 SELECT "Ano/Mes",
+  --CRIA AS COLUNAS PARA CADA FORNCEDOR
   SUM(CASE WHEN Nome_Fornecedor = 'NebulaNetworks' THEN Qtd_Vendas ELSE 0 END) AS Qtd_Vendas_NebulaNetworks,
   SUM(CASE WHEN Nome_Fornecedor = 'HorizonDistributors' THEN Qtd_Vendas ELSE 0 END) AS Qtd_Vendas_HorizonDistributors,
   SUM(CASE WHEN Nome_Fornecedor = 'AstroSupply' THEN Qtd_Vendas ELSE 0 END) AS Qtd_Vendas_AstroSupply
