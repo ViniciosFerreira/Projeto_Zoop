@@ -30,7 +30,7 @@ Para facilitar o acesso e a atualização das informações, este projeto inclui
 1.	Configuração do Banco de Dados:
 o	Configure seu SGBD e importe o arquivo de dados (Projeto_Zoop/banco_de_dados_vendas.db) para seu banco de dados.
 2.	Execução das Consultas SQL:
-o	Navegue até o diretório Queries/ e execute as consultas SQL conforme necessário para realizar as análises.
+o	Navegue até o diretório [Queries/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Queries) e execute as consultas SQL conforme necessário para realizar as análises.
 o	Utilize um cliente SQLite Onlie para executar as queries.
 3.	Documentação:
 o	Consulte a documentação em Docs/ para obter detalhes sobre cada query e como interpretá-las.
