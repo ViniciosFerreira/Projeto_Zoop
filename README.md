@@ -25,10 +25,10 @@ Para facilitar o acesso e a atualização das informações, este projeto inclui
 ## Como Utilizar Este Repositório
 ### Pré-requisitos
 -	Acesso ao [SQLite Online]( https://sqliteonline.com/)
--	Acesso ao banco de dados da Zoop MegaStore (Projeto_Zoop/banco_de_dados_vendas.db)
+-	Acesso ao banco de dados da Zoop MegaStore [(banco_de_dados_vendas.db)](https://github.com/ViniciosFerreira/Projeto_Zoop/blob/main/banco_de_dados_vendas.db)
 ### Instruções
 1.	Configuração do Banco de Dados:
-o	Configure seu SGBD e importe o arquivo de dados (Projeto_Zoop/banco_de_dados_vendas.db) para seu banco de dados.
+o	Configure seu SGBD e importe o arquivo de dados [(banco_de_dados_vendas.db)](https://github.com/ViniciosFerreira/Projeto_Zoop/blob/main/banco_de_dados_vendas.db) para seu banco de dados.
 2.	Execução das Consultas SQL:
 o	Navegue até o diretório [Queries/](https://github.com/ViniciosFerreira/Projeto_Zoop/tree/main/Queries) e execute as consultas SQL conforme necessário para realizar as análises.
 o	Utilize um cliente SQLite Onlie para executar as queries.
