@@ -1,7 +1,3 @@
-# Projeto_Zoop
-
-Este é um projeto desenvolvido durante o curso "SQLite online: análise de dados com SQL" da Alura
-
 # Projeto de Análise de Dados da Black Friday - Zoop MegaStore
 > Análise de dados utilizando SQL - Alura
 
