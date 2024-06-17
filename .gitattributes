@@ -1,1 +1,6 @@
-*.sql linguist-language=SQL
+Aplicando Análise de Dados.sql linguist-language=SQL
+Conhecendo e Preparando os Dados.sql linguist-language=SQL
+Preparando Queries Complexas 1.sql linguist-language=SQL
+Preparando Queries Complexas 2.sql linguist-language=SQL
+Visualização e Tratamento de Dados.sql linguist-language=SQL
+Desafios.sql linguist-language=SQL
